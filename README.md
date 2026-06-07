@@ -1,5 +1,7 @@
 # AI-Powered Next-Gen Human Resource Management System (HRMS)
 
+### 🔗 **Live Website Link:** [https://hrms-ruddy-three.vercel.app](https://hrms-ruddy-three.vercel.app)
+
 Welcome to the **Next-Gen Human Resource Management System (HRMS)**, built as a submission for the **FWC AI/ML with Fullstack Engineer Hackathon**. 
 
 This platform showcases a robust, high-performance, full-stack architecture built using **Next.js App Router (TypeScript)**, custom styled with **Vanilla CSS Modules** (no Tailwind, per requirements), and powered by **Gemini AI** integrations (with robust simulated fallbacks).
