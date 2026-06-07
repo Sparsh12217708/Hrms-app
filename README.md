@@ -46,6 +46,19 @@ This platform showcases a robust, high-performance, full-stack architecture buil
 
 ---
 
+## 🛠️ Built With (Tech Stack)
+
+* **Core Framework:** Next.js (App Router, React 19, TypeScript)
+* **AI & NLP Integration:** Google Gemini AI SDK (`@google/generative-ai`)
+* **Styling Design:** Vanilla CSS Modules (scoped, type-safe styles, no TailwindCSS)
+* **State & Sessions:** JWT (JSON Web Tokens) with secure HttpOnly cookie sessions
+* **Database Engine:** Custom indexed in-memory JSON database wrapper (O(1) Map indexing, async debounced file-writing)
+* **Development Runner:** `tsx` (TypeScript Execute)
+* **UI Icons:** Lucide React
+* **Hosting & Cloud:** Vercel (Production serverless cloud hosting)
+
+---
+
 ## ⚡ Scaling & Telemetry (5,000+ Employees)
 
 To meet FWC scalability standards, the system is backed by an in-memory, mapped JSON database wrapper in [`lib/db.ts`](lib/db.ts) that caches records on startup and commits updates to disk asynchronously using debounced writes. This enables O(1) indexed reads for individual profiles and sub-millisecond fuzzy search filters.
