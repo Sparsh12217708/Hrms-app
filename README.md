@@ -2,6 +2,24 @@
 
 ### 🔗 **Live Website Link:** [https://hrms-ruddy-three.vercel.app](https://hrms-ruddy-three.vercel.app)
 
+---
+
+## 📸 Screenshots
+
+| 🎨 Corporate Login Portal | 📊 Management Admin Dashboard |
+|---|---|
+| ![SaaS Login Screen](/public/screenshot1.png) | ![Overview Dashboard](/public/screenshot2.png) |
+
+| 👥 Employee Directory & Status | 🤖 AI Candidate Interview Bot |
+|---|---|
+| ![Employee Directory](/public/screenshot3.png) | ![AI Interview Bot](/public/screenshot4.png) |
+
+| 💬 AI Policy Virtual Assistant |
+|---|
+| ![AI Handbook Chatbot](/public/screenshot5.png) |
+
+---
+
 Welcome to the **Next-Gen Human Resource Management System (HRMS)**, built as a submission for the **FWC AI/ML with Fullstack Engineer Hackathon**. 
 
 This platform showcases a robust, high-performance, full-stack architecture built using **Next.js App Router (TypeScript)**, custom styled with **Vanilla CSS Modules** (no Tailwind, per requirements), and powered by **Gemini AI** integrations (with robust simulated fallbacks).
